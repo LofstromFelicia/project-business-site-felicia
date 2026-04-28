@@ -3,7 +3,7 @@
 This is a professional business one-pager designed for the **Nexus AI** recruitment phase. The project focuses on advanced HTML forms, responsive design, and data handling using HTTPBin. 
 
 ## 🚀 Live Demo 
-Check it out here! - (GitHub-Länk-Här)
+Check it out here! - [(GitHub)](https://lofstromfelicia.github.io/project-business-site-felicia/)
 [**View the Project on Cloudflare**] (MIN-CLOUDFLARE-LÄNK-HÄR)
 
 ## 🎯 Project Goals 
