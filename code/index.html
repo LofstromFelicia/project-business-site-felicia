@@ -1,17 +1,69 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Business Site</title>
-    <!-- Don't forget to link the CSS file here! -->
-  </head>
-  <body>
-    <h1>Business name 🌻</h1>
+<html lang="en">
 
-    <!-- Video or image as a header is cool :) -->
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NEXUS AI SOLUTIONS</title>
+  <link rel="stylesheet" href="./style.css">
+  <!-- done! -->
+</head>
 
-    <!-- Signup form -->
+<body>
 
-  </body>
+  <header class="hero">
+    <div class="hero-content">
+      <h1>Project Neural Link</h1>
+      <p>Apply for the Human-AI Beta Integration Program</p>
+      <!-- Video or image as a header is cool :) -->
+    </div>
+  </header>
+
+  <main>
+    <section class="form-container">
+      <h2>Beta Access Applications</h2>
+      <p>Fill out the credentials to initialize your neural sync.</p>
+
+      <form action="https://httpbin.org/anything" method="POST">
+
+        <div class="form-group">
+          <label for="username">Identity Name</label>
+          <input type="text" name="user_name" id="user_name" required placeholder="e.g. Nexus-7">
+        </div>
+
+        <div class="form-group">
+          <label for="user_email">Neural-Link Email</label>
+          <input type="email" name="user_email" id="user_email" required placeholder="name@nexus.ai">
+        </div>
+
+        <div class="form-group">
+          <label for="secure_code">Secure Access Token</label>
+          <input type="password" name="secure_code" id="secure_code" required>
+        </div>
+
+        <fieldset>
+          <legend>Select Neural Module</legend>
+          <div class="radio-group">
+            <label><input type="radio" name="module" value="core" checked> Core</label>
+            <label><input type="radio" name="module" value="vision"> Vision</label>
+            <label><input type="radio" name="module" value="logic"> Logic</label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>Priority Updates</legend>
+          <div class="checkbox-group">
+            <label><input type="checkbox" name="interest" value="space-tech"> Space Tech</label>
+            <label><input type="checkbox" name="interest" value="deep-learning"> Deep Learning</label>
+          </div>
+        </fieldset>
+
+        <button type="submit" class="submit-btn">Initialize Sync</button>
+      </form>
+    </section>
+
+  </main>
+
+</body>
+
 </html>
