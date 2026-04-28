@@ -92,9 +92,10 @@ body {
   transition: 0.3s;
 }
 
-.cta-button {
+.cta-button:hover {
   transform: translateY(-3px);
   box-shadow: 0 10px 20px rgba(168, 85, 247, 0.6);
+  filter: brightness(1.1);
 }
 
 /* FORM SECTION */
@@ -187,6 +188,9 @@ legend {
 
 label:has(input[type="radio"]),
 label:has(input[type="checkbox"]) {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   background: rgba(255, 255, 255, 0.05);
   padding: 10px 15px;
   border-radius: 8px;
@@ -194,6 +198,8 @@ label:has(input[type="checkbox"]) {
   font-size: 0.85rem;
   border: 1px solid transparent;
   transition: 0.2s;
+  text-transform: none;
+  margin-bottom: 0;
 }
 
 label:hover {
@@ -234,8 +240,9 @@ footer {
 /* RESPONSIVENESS */
 @media (max-width: 600px) {
   .form-container {
-    margin: -50px 20px 40px;
+    margin: -50px 15px 40px;
     padding: 25px;
+    width: auto;
   }
 
   .hero-content h1 {
