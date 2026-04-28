@@ -4,7 +4,7 @@ This is a professional business one-pager designed for the **Nexus AI** recruitm
 
 ## 🚀 Live Demo 
 Check it out here! - [(GitHub)](https://lofstromfelicia.github.io/project-business-site-felicia/)
-[**View the Project on Cloudflare**] (MIN-CLOUDFLARE-LÄNK-HÄR)
+[**View the Project on Cloudflare**] (project-business-site-felicia.pages.dev)
 
 ## 🎯 Project Goals 
 * **Responsive Hero Section:** Featuring a high-tech background video with a glassmorphism overlay. 
