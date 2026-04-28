@@ -1,10 +1,26 @@
-# Business Site
+# 🤖 Nexus AI - Neural Link Beta Program
 
-Replace this readme with your own information about the project. You can include things like:
+This is a professional business one-pager designed for the **Nexus AI** recruitment phase. The project focuses on advanced HTML forms, responsive design, and data handling using HTTPBin. 
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+## 🚀 Live Demo 
+Check it out here! - (GitHub-Länk-Här)
+[**View the Project on Cloudflare**] (MIN-CLOUDFLARE-LÄNK-HÄR)
 
-## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+## 🎯 Project Goals 
+* **Responsive Hero Section:** Featuring a high-tech background video/image.
+* **Advanced Beta Signup Form:** Data submission to 'https://httpbin.org/anything' using 'POST' method. 
+  -Multiple input types: Text, Email, Password, Radio buttons, and Checkboxes.
+**Modern UI:** 'Tech-Purple' aesthetic. 
+**Fully Responsive:** Optimized for devices from 320px to 1600px.
+
+## 🛠️ Built With 
+* **HTML5:** Semantic structure for better accessibility. 
+* **CSS:** 
+* **Git/GitHub:** Version control and deployment. 
+* **Cloudflare Pages:** 
+
+## 💡 Learning Reflections
+* ** 
+
+## 🚀 Future Improvements (What I'd do with more time)
+* ** 
